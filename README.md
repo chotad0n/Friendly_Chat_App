@@ -7,7 +7,8 @@ This repository contains code for the FriendlyChat project.
 
 FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
 
-<img src="https://user-images.githubusercontent.com/73274912/144553710-05094b43-879a-4d16-bb64-800b6c233fa5.jpeg" width=45% height=25% alt="Sign In">   
+<img src="https://user-images.githubusercontent.com/73274912/144553710-05094b43-879a-4d16-bb64-800b6c233fa5.jpeg" width=45% height=25% alt="Sign In">        <img src="https://user-images.githubusercontent.com/73274912/144561726-751f85a9-dada-4336-88b9-28f1ee17b155.jpeg" width=45% height=25% alt="Notification">
+
 
 https://user-images.githubusercontent.com/73274912/144553612-4c0280c2-7caf-4aee-b814-55a715b731e0.mp4
 
