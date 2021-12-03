@@ -122,7 +122,7 @@ public void fetchConfig() {
 ```
 * JavaScript function converting some of the text to emoji
 ```java
-const functions = require('firebase-functions');
+const functions = require('firebase-functions'); //cloud functions
 
 // replaces keywords with emoji in the "text" key of messages
 // pushed to /messages
